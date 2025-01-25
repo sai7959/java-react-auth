@@ -1,0 +1,9 @@
+.container {
+  /* border: 1px black solid; */
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+input {
+  padding: 10px;
+}
